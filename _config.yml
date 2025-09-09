@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/CCBP.jpeg"
+avatar: "/assets/img/CCPB.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -138,11 +138,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#EBB3BC"
-text-col: "#2F055A"
+page-col: "#FFE6E6"
+text-col: "#FFD1B3"
 link-col: "#008AFF"
 hover-col: "#008AFF"
-navbar-col: "#B40A27"
+navbar-col: "#99004D"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
