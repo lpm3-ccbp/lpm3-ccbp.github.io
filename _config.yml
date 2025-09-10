@@ -20,11 +20,7 @@ author: Livi Mazerolle
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  About the Author:
+  LPM3 Things:
     - Williams Track and Field: "https://ephsports.williams.edu/sports/womens-track-and-field"
     - Creative Portfolio: "https://oliviamazerolleportfolio.my.canva.site/"
 
@@ -88,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: All things LPM3
 
 ###########################
 # --- General options --- #
@@ -139,16 +135,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFCCC"
-text-col: "#009973"
-link-col: "#80D4FF"
-hover-col: "#00E6AC"
-navbar-col: "#99004D"
-navbar-text-col: "#404040"
+text-col: "#000000"
+link-col: "#C42B3B"
+hover-col: "#E89F64"
+navbar-col: "#64D6E8"
+navbar-text-col: "#C42B3B"
 navbar-border-col: "#DDDDDD"
-footer-col: "#99004D"
+footer-col: "#64D6E8"
 footer-text-col: "#009973"
-footer-link-col: "#80D4FF"
-footer-hover-col: "#00E6AC"
+footer-link-col: "#C42B3BF"
+footer-hover-col: "#E89F64"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
