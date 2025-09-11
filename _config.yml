@@ -23,8 +23,7 @@ navbar-links:
   LPM3 Links:
     - Williams Track and Field: "https://ephsports.williams.edu/sports/womens-track-and-field"
     - Creative Portfolio: "https://oliviamazerolleportfolio.my.canva.site/"
-  About LPM3:
-    - "lpm3-ccbp.github.io/aboutme.md"
+  About LPM3: "lpm3-ccbp/aboutme.md"
 
 ################
 # --- Logo --- #
@@ -136,17 +135,18 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#D3E9ED"
+page-col: "#CEE7ED"
 text-col: "#000000"
 link-col: "#C42B3B"
-hover-col: "#E89F64"
-navbar-col: "#64D6E8"
-navbar-text-col: "#C42B3B"
+hover-col: "#FFFFFF"
+navbar-col: "#84CEE0"
+navbar-hover-col: "#C42B3B"
+navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
-footer-col: "#64D6E8"
-footer-text-col: "#009973"
+footer-col: "#84CEE0"
+footer-text-col: "#000000"
 footer-link-col: "#C42B3BF"
-footer-hover-col: "#E89F64"
+footer-hover-col: "#C42B3B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
