@@ -20,9 +20,11 @@ author: Livi Mazerolle
 ###############################################
 
 navbar-links:
-  LPM3 Things:
+  LPM3 Links:
     - Williams Track and Field: "https://ephsports.williams.edu/sports/womens-track-and-field"
     - Creative Portfolio: "https://oliviamazerolleportfolio.my.canva.site/"
+  About LPM3:
+    - "lpm3-ccbp.github.io/aboutme.md"
 
 ################
 # --- Logo --- #
