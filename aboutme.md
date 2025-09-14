@@ -3,12 +3,7 @@ layout: page
 title: All about Livi (legally Olivia)
 subtitle: I'm named after a pig.
 ---
+### To round out my time at Williams College, I have decided to enroll in a Computer Science class! As someone who very rarely frequents Science Quad, this course will break up my essays and readings, allowing me to think in a new way. I struggle to enjoy all that technology has to offer simply because I don’t understand it. As a lover of pen on paper, I am hoping to become more comfortable with my computer by the end of this course. 
 
-My full name is Olivia Patricia Mazerolle, but everyone calls me Livi.
+###### There is also the fact that I needed a Div 3 credit.
 
-* Majors: English & Art History/Studio
-* Concentration: Justice and Law Studies 
-* Year: 2026
-* Sewing Experience: I have been sewing for a while, a hobby of mine is altering and making new clothes!
-* Programming Experience: none
-* Boring Fact: I go to Williams College
