@@ -15,3 +15,4 @@ author: Livi Mazerolle
 - **Majors:** English and Art History/Studio with a Justice and Law Concentration 
 - **Sewing Experience:** I would consider myself a mediocre seamstress. I am the friend who sews buttons back on, hems pants, and takes in the waists thrift finds. I am very comfortable with a needle and thread or a machine! 
 - **Programming Experience:** None.
+- **Boring Fact:** I have a dog
