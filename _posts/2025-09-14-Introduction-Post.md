@@ -9,7 +9,7 @@ comments: true
 mathjax: true
 author: Livi Mazerolle
 ---
-! [Where I spend most of my time] (https://lpm3-ccbp.github.io/assets/img/Track)
+![Where I spend most of my time](https://lpm3-ccbp.github.io/assets/img/Track)
 ### The Basics:
 **Name:** Olivia Mazerolle, I go by Livi
 **Majors:** English and Art History/Studio with a Justice and Law Concentration 
