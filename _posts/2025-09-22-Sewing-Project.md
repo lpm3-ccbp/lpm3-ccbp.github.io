@@ -7,8 +7,8 @@ mathjax: true
 author: Livi Mazerolle
 ---
 ![front](https://lpm3-ccbp.github.io/assets/img/front)
-Front of my fab sewing project (The edge starts with a blanket stitch and turns into a whip stitch.
+Front of my fab sewing project (The edge starts with a blanket stitch and turns into a whip stitch.\
 ![back](https://lpm3-ccbp.github.io/assets/img/back)
-Back of my fab sewing project (looks far less fab) 
-###Past Livi...
+Back of my fab sewing project (looks far less fab)\
+*Past Livi...*\
 Please don't be lazy and pick up an embroidery hoop (I never did), it will make life far easier.
