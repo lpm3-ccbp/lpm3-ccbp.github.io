@@ -8,7 +8,7 @@ author: Livi Mazerolle
 ---
 ![Sweater Weather DeBug](https://lpm3-ccbp.github.io/assets/img/SW)
 ### Sweater Weather Project!<br>
-**Description** <br>
-In this program you are able to enter a temperature in the "Temperature" variable and the output will tell you what you should wear according to the temperature!
-**Tip for Past Livi** <br>
+**Description:** <br>
+In this program you are able to enter a temperature in the "Temperature" variable and the output will tell you what you should wear according to the temperature! <br>
+**Tip for Past Livi:** <br>
 Give yourself more time so you can test out different combinations.
