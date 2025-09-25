@@ -6,7 +6,7 @@ comments: true
 mathjax: true
 author: Livi Mazerolle
 ---
-![Sweater Weather DeBug](https://lpm3-ccbp.github.io/assets/img/SW)
+![Sweater Weather DeBug](https://lpm3-ccbp.github.io/assets/img/SW.png)
 ### Sweater Weather Project!<br>
 **Description:** <br>
 In this program you are able to enter a temperature in the "Temperature" variable and the output will tell you what you should wear according to the temperature! <br>
