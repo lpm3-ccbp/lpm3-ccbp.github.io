@@ -12,10 +12,11 @@ This assignment required the creation of a circut containing 3 lights, a switch,
 **Plushy Prototype**\
 ![gator](https://lpm3-ccbp.github.io/assets/img/ali.png)
 **Test Run**\
-(I didn't take a picture when I actually tested it but it looked like this!\
+(I didn't take a picture when I actually tested it but it looked like this^\
 ![Front](https://lpm3-ccbp.github.io/assets/img/face.png)
 **Completed Plushy!(front)**\
 ![Back](https://lpm3-ccbp.github.io/assets/img/behind.png)
 **Completed Plushy!(back)**\
-**Tips and Tricks**\
+
+**Tips and Tricks:**\
 I wish I had tested the lights piece by piece when using the conductuve thread that way I knew which specific connection points were causing problems.
