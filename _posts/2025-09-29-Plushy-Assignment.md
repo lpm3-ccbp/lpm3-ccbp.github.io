@@ -1,15 +1,21 @@
 ---
 layout: post
 title: Plushy Assignment
-subtitle: 
+subtitle: Light up circut plushy
 comments: true
 mathjax: true
 author: Livi Mazerolle
 ---
-![Where I spend most of my time](https://lpm3-ccbp.github.io/assets/img/Track)
-### The Basics:
-- **Name:** Olivia Mazerolle, I go by Livi
-- **Majors:** English and Art History/Studio with a Justice and Law Concentration 
-- **Sewing Experience:** I would consider myself a mediocre seamstress. I am the friend who sews buttons back on, hems pants, and takes in the waists thrift finds. I am very comfortable with a needle and thread or a machine! 
-- **Programming Experience:** None.
-- **Boring Fact:** My favorite month is September
+### **Plushy Project:**\
+This assignment required the creation of a circut containing 3 lights, a switch, a button, and a battery pack. This circut connected and sewn into a plsuhy using conductive thread. The plushy was then sewn up with normal thread and stuffed! 
+![Plushy Proto](https://lpm3-ccbp.github.io/assets/img/layout.HEIC)
+**Plushy Prototype**
+![gator](https://lpm3-ccbp.github.io/assets/img/gator.HEIC)
+**Test Run**\
+(I didn't take a picture when I actually tested it but it looked like this!
+![Front](https://lpm3-ccbp.github.io/assets/img/front.plushy.HEIC)
+**Completed Plushy!(front)**\
+![Back](https://lpm3-ccbp.github.io/assets/img/back.plushy.HEIC)
+**Completed Plushy!(back)**\
+**Tips and Tricks**\
+I wish I had tested the lights piece by piece when using the conductuve thread that way I knew which specific connection points were causing problems.
