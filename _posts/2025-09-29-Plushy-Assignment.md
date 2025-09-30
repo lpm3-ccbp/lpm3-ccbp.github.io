@@ -13,9 +13,9 @@ This assignment required the creation of a circut containing 3 lights, a switch,
 ![gator](https://lpm3-ccbp.github.io/assets/img/gator.HEIC)
 **Test Run**\
 (I didn't take a picture when I actually tested it but it looked like this!\
-![Front](https://lpm3-ccbp.github.io/assets/img/front.plushy.HEIC)
+![Front](https://lpm3-ccbp.github.io/assets/img/front.plushy.jpg)
 **Completed Plushy!(front)**\
-![Back](https://lpm3-ccbp.github.io/assets/img/back.plushy.HEIC)
+![Back](https://lpm3-ccbp.github.io/assets/img/back.plushy.jpg)
 **Completed Plushy!(back)**\
 **Tips and Tricks**\
 I wish I had tested the lights piece by piece when using the conductuve thread that way I knew which specific connection points were causing problems.
