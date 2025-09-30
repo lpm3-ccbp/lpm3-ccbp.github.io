@@ -6,7 +6,7 @@ comments: true
 mathjax: true
 author: Livi Mazerolle
 ---
-### **Plushy Project:**\
+### **Plushy Project:**
 This assignment required the creation of a circut containing 3 lights, a switch, a button, and a battery pack. This circut connected and sewn into a plsuhy using conductive thread. The plushy was then sewn up with normal thread and stuffed!\
 ![Plushy Proto](https://lpm3-ccbp.github.io/assets/img/layout.HEIC)
 **Plushy Prototype**\
