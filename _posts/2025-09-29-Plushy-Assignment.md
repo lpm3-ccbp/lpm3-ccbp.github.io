@@ -8,14 +8,14 @@ author: Livi Mazerolle
 ---
 ### **Plushy Project:**
 This assignment required the creation of a circut containing 3 lights, a switch, a button, and a battery pack. This circut connected and sewn into a plsuhy using conductive thread. The plushy was then sewn up with normal thread and stuffed!\
-![Plushy Proto](https://lpm3-ccbp.github.io/assets/img/layout.HEIC)
+![Plushy Proto](https://lpm3-ccbp.github.io/assets/img/page.png)
 **Plushy Prototype**\
-![gator](https://lpm3-ccbp.github.io/assets/img/gator.HEIC)
+![gator](https://lpm3-ccbp.github.io/assets/img/ali.png)
 **Test Run**\
 (I didn't take a picture when I actually tested it but it looked like this!\
-![Front](https://lpm3-ccbp.github.io/assets/img/front.plushy.jpg)
+![Front](https://lpm3-ccbp.github.io/assets/img/face.png)
 **Completed Plushy!(front)**\
-![Back](https://lpm3-ccbp.github.io/assets/img/back.plushy.jpg)
+![Back](https://lpm3-ccbp.github.io/assets/img/behind.png)
 **Completed Plushy!(back)**\
 **Tips and Tricks**\
 I wish I had tested the lights piece by piece when using the conductuve thread that way I knew which specific connection points were causing problems.
