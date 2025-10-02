@@ -8,7 +8,7 @@ author: Livi Mazerolle
 ---
 ### **Plushy Redux Assignment:**
 In this assingment we created a program that would mimic the function of our plushy with the added element of LEDs as variables \
-![Plushy Redux Output](https://lpm3-ccbp.github.io/assets/img/plushy.redux.png)
+![Plushy Redux Output](https://lpm3-ccbp.github.io/assets/img/plush.redux.png)
 
 
 **Tips and Tricks:**\
