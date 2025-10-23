@@ -13,7 +13,7 @@ In this assignment we created three different loops that conect to three differe
 **Big Dipper**\
 ![synch](https://lpm3-ccbp.github.io/assets/img/IMG_5131.png)\
 **Synchronous**\
-![synch](https://lpm3-ccbp.github.io/assets/img/IMG_5129.png)\
+![synch](https://lpm3-ccbp.github.io/assets/img/IMG_5129.png)
 
 **Tips and Tricks:**\
 Doing the math out on paper to visulaize what is happening behind the code, before trying to fix it on the screen.
