@@ -6,7 +6,7 @@ comments: true
 mathjax: true
 author: Livi Mazerolle
 ---
-### **Forget-Me-Not Bag Paper Prototype**\
+### **Forget-Me-Not Bag Paper Prototype**
 This is my paper prototype of the Forget-Me-Not Bag. I changed it to have two pockets. Each pocket has a circut connecting an LED and a "homemade button" to a pin on the LilyPad. When the circuts are closed meaning the lights are on, and the button is pressed a sound will play!\
 **Inside of Purse**\
 ![inside](https://lpm3-ccbp.github.io/assets/img/inside.png)\
