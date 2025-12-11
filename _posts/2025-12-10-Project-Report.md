@@ -32,7 +32,7 @@ I tend to forget things quite often. I decided that I would create a purse that 
 **2. a) Lipgloss Missing, View Of Pockets**
 ![Inside View](https://lpm3-ccbp.github.io/assets/img/PR3.png)
 
-**3. Link to Video of Project in Action**\
+**Link to Video of Project in Action**\
 [Video Demo](https://drive.google.com/file/d/1gUVyf7SnUb_Firfe0J3Le7-iZe53xIU6/view?usp=sharing)
 
 ### **3 Tips to my Past Self:**
