@@ -36,7 +36,7 @@ I tend to forget things quite often. I decided that I would create a purse that 
 [Video Demo](https://drive.google.com/file/d/1gUVyf7SnUb_Firfe0J3Le7-iZe53xIU6/view?usp=sharing)
 
 ### **3 Tips to my Past Self:**
-1. DOUBLE CHECK that materials make it back to school with you after break\
-2. Use a fabric that allows you to see conductive thread traces\
-3. Insulate condusctive fabric edges because frayed edges can cause sneaky short circuts/
+1. DOUBLE CHECK that materials make it back to school with you after break
+2. Use a fabric that allows you to see conductive thread traces
+3. Insulate condusctive fabric edges because frayed edges can cause sneaky short circuts
 
